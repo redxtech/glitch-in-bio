@@ -3,36 +3,36 @@
   "metaDescription": "My meta description.",
   "name": "Glitch in Bio",
   "theme": "glitch",
-  "avatarImage": "https://cdn.glitch.com/560ed5ed-9d00-433a-9ff9-7750d79d13da%2FGlitch_TeamAvatar.png?v=1624643105812",
+  "avatarImage": "https://s.gravatar.com/avatar/0bff633cc9cae2c7f75c8688ce8ae526",
   "links": [
     {
-      "url": "https://glitch.new/links",
-      "text": "Remix! Have your own Glitch-in-bio running in seconds.",
-      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
-      "altText": "Glitch blue generative art"
+      "url": "https://gabedunn.dev",
+      "text": "homepage",
+      "img":"https://s.gravatar.com/avatar/0bff633cc9cae2c7f75c8688ce8ae526",
+      "altText": "gabe dunn development"
     },
     {
-      "url": "https://glitch.com/edit/#!/glitch-in-bio?path=README.md",
-      "text": "View source! Check out the code to see how it's built.",
+      "url": "https://blog.gabedunn.dev",
+      "text": "blog",
       "img": ""
     },
     {
-      "url": "https://www.glitch.com/",
-      "text": "Built by and on Glitch, the easiest way to build the web.",
-      "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "url": "https://when.sh",
+      "text": "when",
+      "img":""
     }
   ],
   "social": {
-    "glitch": "https://glitch.com/",
+    "glitch": "https://glitch.com/redxtech",
     "arena":"",
     "bandcamp": "",
     "cohost":"",
-    "dev": "https://dev.to/glitch",    
+    "dev": "https://dev.to/gabedunn",    
     "facebook": "",
-    "github": "https://github.com/glitchdotcom",
-    "gitlab": "",
+    "github": "https://github.com/redxtech",
+    "gitlab": "redxtech",
     "hashnode": "",
-    "instagram": "",
+    "instagram": "gabe.dunn_",
     "keybase":"",
     "kofi": "",
     "letterboxd":"",
