@@ -1,7 +1,7 @@
 {
   "metaTitle": "my links & socials",
   "metaDescription": "My links and socials, aggregated.",
-  "name": "gabe dunn || redxtech",
+  "name": "gabe dunn // redxtech",
   "theme": "glitch",
   "avatarImage": "https://s.gravatar.com/avatar/0bff633cc9cae2c7f75c8688ce8ae526",
   "links": [
@@ -17,17 +17,24 @@
     },
     {
       "url": "https://when.sh",
-      "text": "when",
+      "text": "when.sh",
       "altText": "when.sh - tv episode release times to the second"
+    },
+    {
+      "url": "https://reginald.when.sh",
+      "text": "reginald",
+      "altText": "is reginald here yet?"
     }
   ],
   "social": {
     "github": "https://github.com/redxtech",
-    
-    "gitlab": "redxtech",
-    "mastodon": "@gabe@tilde.zone",
+    "gitlab": "https://gitlab.com/redxtech",
+    "mastodon": "https://tilde.zone/@gabe",
     "dev": "https://dev.to/gabedunn",
+    "stackoverflow": "https://stackoverflow.com/users/6197483/redxtech",
     "twitter": "https://twitter.com/gabedunn_",
+    "instagram": "https://instagram.com/gabe.dunn_",
+    "keybase": "https://keybase.io/redxtech",
     "linkedin": "https://linkedin.com/in/gabe-dunn-148142142/",
     "youtube": "https://www.youtube.com/@RedXTech",
     "glitch": "https://glitch.com/@redxtech",
@@ -37,8 +44,6 @@
     "cohost": "",
     "facebook": "",
     "hashnode": "",
-    "instagram": "gabe.dunn_",
-    "keybase": "redxtech",
     "kofi": "",
     "letterboxd": "",
     "medium": "",
@@ -48,7 +53,6 @@
     "podcast": "",
     "soundcloud": "",
     "spotify": "",
-    "stackoverflow": "6197483",
     "substack": "",
     "twitch": "",
     "tiktok": "",
