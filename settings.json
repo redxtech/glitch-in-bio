@@ -8,7 +8,7 @@
     {
       "url": "https://gabedunn.dev",
       "text": "homepage",
-      "img":"https://s.gravatar.com/avatar/0bff633cc9cae2c7f75c8688ce8ae526",
+      "img": "https://s.gravatar.com/avatar/0bff633cc9cae2c7f75c8688ce8ae526",
       "altText": "gabe dunn development"
     },
     {
@@ -19,39 +19,39 @@
     {
       "url": "https://when.sh",
       "text": "when",
-      "img":""
+      "img": ""
     }
   ],
   "social": {
     "glitch": "https://glitch.com/redxtech",
-    "arena":"",
+    "arena": "",
     "bandcamp": "",
-    "cohost":"",
-    "dev": "https://dev.to/gabedunn",    
+    "cohost": "",
+    "dev": "https://dev.to/gabedunn",
     "facebook": "",
     "github": "https://github.com/redxtech",
     "gitlab": "redxtech",
     "hashnode": "",
     "instagram": "gabe.dunn_",
-    "keybase":"redxtech",
+    "keybase": "redxtech",
     "kofi": "",
-    "letterboxd":"",
-    "linkedin": "https://www.linkedin.com/company/fog-creek-software",
-    "mastodon": "",
+    "letterboxd": "",
+    "linkedin": "in/gabe-dunn-148142142/",
+    "mastodon": "@gabe@tilde.zone",
     "medium": "",
     "patreon": "",
-    "pinboard":"",
+    "pinboard": "",
     "pinterest": "",
     "podcast": "",
     "soundcloud": "",
     "spotify": "",
-    "stackoverflow": "",
+    "stackoverflow": "6197483",
     "substack": "",
-    "twitter": "https://twitter.com/glitch",
+    "twitter": "https://twitter.com/gabedunn_",
     "twitch": "",
     "tiktok": "",
     "tumblr": "",
-    "youtube": "https://www.youtube.com/c/GlitchDotCom",
-    "email": "support@glitch.com"
+    "youtube": "https://www.youtube.com/@RedXTech",
+    "email": "gabe@sent.at"
   }
 }
