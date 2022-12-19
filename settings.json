@@ -1,43 +1,46 @@
 {
-  "metaTitle": "Glitch in Bio!",
-  "metaDescription": "My meta description.",
-  "name": "Glitch in Bio",
+  "metaTitle": "my links & socials",
+  "metaDescription": "My links and socials, aggregated.",
+  "name": "gabe dunn || redxtech",
   "theme": "glitch",
   "avatarImage": "https://s.gravatar.com/avatar/0bff633cc9cae2c7f75c8688ce8ae526",
   "links": [
     {
       "url": "https://gabedunn.dev",
       "text": "homepage",
-      "img": "https://s.gravatar.com/avatar/0bff633cc9cae2c7f75c8688ce8ae526",
       "altText": "gabe dunn development"
     },
     {
       "url": "https://blog.gabedunn.dev",
       "text": "blog",
-      "img": ""
+      "altText": "gabe's blog"
     },
     {
       "url": "https://when.sh",
       "text": "when",
-      "img": ""
+      "altText": "when.sh - tv episode release times to the second"
     }
   ],
   "social": {
-    "glitch": "https://glitch.com/redxtech",
+    "github": "https://github.com/redxtech",
+    
+    "gitlab": "redxtech",
+    "mastodon": "@gabe@tilde.zone",
+    "dev": "https://dev.to/gabedunn",
+    "twitter": "https://twitter.com/gabedunn_",
+    "linkedin": "https://linkedin.com/in/gabe-dunn-148142142/",
+    "youtube": "https://www.youtube.com/@RedXTech",
+    "glitch": "https://glitch.com/@redxtech",
+    "email": "gabe@gabedunn.dev",
     "arena": "",
     "bandcamp": "",
     "cohost": "",
-    "dev": "https://dev.to/gabedunn",
     "facebook": "",
-    "github": "https://github.com/redxtech",
-    "gitlab": "redxtech",
     "hashnode": "",
     "instagram": "gabe.dunn_",
     "keybase": "redxtech",
     "kofi": "",
     "letterboxd": "",
-    "linkedin": "in/gabe-dunn-148142142/",
-    "mastodon": "@gabe@tilde.zone",
     "medium": "",
     "patreon": "",
     "pinboard": "",
@@ -47,11 +50,8 @@
     "spotify": "",
     "stackoverflow": "6197483",
     "substack": "",
-    "twitter": "https://twitter.com/gabedunn_",
     "twitch": "",
     "tiktok": "",
-    "tumblr": "",
-    "youtube": "https://www.youtube.com/@RedXTech",
-    "email": "gabe@sent.at"
+    "tumblr": ""
   }
 }
